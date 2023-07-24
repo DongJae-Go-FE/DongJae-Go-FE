@@ -24,3 +24,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongJae-Go-FE&layout=compact">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DongJae-Go-FE&show_icons=true">
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
