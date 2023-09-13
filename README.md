@@ -17,7 +17,10 @@
   </div>
 
 <h2>STACK STUDY...</h2>
-  <div><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"><div>
+  <div>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=NextJs&logoColor=white">
+  <div>
 
 <h2>STATS & INFO</h2>
 <div>
