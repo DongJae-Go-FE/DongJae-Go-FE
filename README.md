@@ -1,5 +1,6 @@
 <p>항상 최선을 다하고 열심히<br>
-   매일은 아니어도 꾸준한 커밋
+   매일은 아니어도 꾸준한 커밋<br>
+   언제나 성능 최적화를 우선시합니다.
 </p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongJae-Go-FE&count_bg=%233F42B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
