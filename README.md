@@ -6,6 +6,8 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongJae-Go-FE&count_bg=%233F42B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
+[웹 접근성 세미나 ppt 링크](https://dongjae-go-fe.github.io/seminar/ppt/)
+
 <h1>🛠 MY STACK</h1>
   <div>
     <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
