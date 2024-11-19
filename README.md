@@ -4,7 +4,13 @@
 
 [웹 접근성 세미나 ppt 링크](https://dongjae-go-fe.github.io/seminar/ppt/)
 
-
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/DongJae-Go-FE"
+  width="600"
+  height="300"
+/>
+</a>
 
 <h1>🛠 MY STACK</h1>
   <div>
