@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-    <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Tailwind CSS-2335BDB2?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
     <img src="https://img.shields.io/badge/Vue.Js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
@@ -49,8 +49,3 @@
     <img src="https://img.shields.io/badge/svelteKit-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white"/>
   <div>
 
-<h2>STATS & INFO</h2>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongJae-Go-FE&layout=compact">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DongJae-Go-FE&show_icons=true">
-</div>
