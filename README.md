@@ -1,7 +1,5 @@
 
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongJae-Go-FE&count_bg=%233F42B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
 [포트폴리오](https://dongjae-go-fe.github.io/front-portfolio/)
 
 [웹 접근성 세미나 ppt 링크](https://dongjae-go-fe.github.io/seminar/ppt/)
