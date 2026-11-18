@@ -1,10 +1,6 @@
 
 
-[포트폴리오](https://dongjae-go-fe.github.io/front-portfolio/)
-
-[은계성당 서비스 페이지](https://eungye-cathedral.vercel.app/)
-
-[웹 접근성 세미나 ppt 링크](https://dongjae-go-fe.github.io/seminar/ppt/)
+[포트폴리오V2](https://prot2-nine.vercel.app/)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
